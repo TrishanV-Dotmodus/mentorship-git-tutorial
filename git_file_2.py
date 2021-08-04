@@ -1,4 +1,4 @@
-print('file 2')
+print('file 2 merge conflict')
 
 # - Make the change (add/deleting/updating files, code etc)
 # - Add the changes ( git add . (. means all changes) , single add example (git add git_file_1.py)
