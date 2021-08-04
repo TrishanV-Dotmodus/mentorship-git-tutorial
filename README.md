@@ -5,3 +5,4 @@ Repository To practice GIT commands on
 - Git pull
 - Git Merge
 - Git Fetch
+- Git merge --abort
