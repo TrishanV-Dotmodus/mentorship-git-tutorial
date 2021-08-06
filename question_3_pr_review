@@ -1,0 +1,6 @@
+#This File is for Question 3 that needs to be Reviewed by Phokwane
+
+i = 1
+while i < 10:
+print(i)
+i += 1
