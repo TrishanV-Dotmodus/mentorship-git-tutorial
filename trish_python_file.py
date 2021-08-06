@@ -1,0 +1,6 @@
+# Here is my while loop
+
+i = 1
+while i < 6:
+print(i)
+i += 1
